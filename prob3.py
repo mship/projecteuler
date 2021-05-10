@@ -18,8 +18,4 @@ for i in range(2, target-1): #iterate through numbers and the sqrt of the target
         if temp == old_temp:
             break
 
-<<<<<<< HEAD
 print(temp) #return the value
-=======
-print(temp) #return the value
->>>>>>> 44191eb456075a174dc29fffab5f53827d0cd243
